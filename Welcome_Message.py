@@ -1,0 +1,6 @@
+name = (input("Hello what is your name: "))
+age = (input("How old are you: "))
+bio = (input("Describe yourself: "))
+print("Hello " + name)
+print("Age " + age)
+print("Bio " + bio)
