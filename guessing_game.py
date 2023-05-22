@@ -1,6 +1,6 @@
-secret_number = 27 ####Change this number for a diffferent secret numbe####
+secret_number = 27 ####Change this number for a diffferent secret number####
 guess_count = 0
-guess_limit = 3 ####Change this nyumber for the amount of guesses you get####
+guess_limit = 3 ####Change this number for the amount of guesses you get####
 while guess_count < guess_limit:
     guess = int(input("Guess: "))
     guess_count += 1
